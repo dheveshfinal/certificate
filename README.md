@@ -1,2 +1,2 @@
 # certificate
-course
+course,internship
